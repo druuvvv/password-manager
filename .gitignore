@@ -2,3 +2,5 @@ __pycache__
 venv
 *.pem
 node_modules
+Dockerfile
+docker-compose.yml
